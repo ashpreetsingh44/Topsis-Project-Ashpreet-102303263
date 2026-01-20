@@ -221,9 +221,3 @@ The project demonstrates TOPSIS through:
 - Software packaging
 - Web-based application
 
----
-
-## Author
-
-Name: Ashpreet Singh  
-Roll No: 102303263
